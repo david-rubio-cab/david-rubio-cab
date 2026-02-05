@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a junior developer who is primarily interested in Machine Learning and Deep Learning, and I genuinely enjoy building AI-driven solutions that turn complex problems into practical results. I approach learning as a game or a challenge, where curiosity and experimentation are key motivations. For me, exploring knowledge is not just a goal, but an enjoyable process that constantly pushes me to improve and create.
 
 <!--
 **david-rubio-cab/david-rubio-cab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
